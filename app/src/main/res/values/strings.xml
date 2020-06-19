@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BookShop</string>
+    <string name="dashboard">dashboard</string>
+    <string name="favourites">favourites</string>
+    <string name="pro_file">profile</string>
+    <string name="aboutapp">aboutApp</string>
+    <string name="navigation_drawer">navigation_drawer</string>
+    <string name="open_drawer">Open_Drawer</string>
+    <string name="close_drawer">Close_drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard_fragment</string>
+    <string name="favourites_fragment">Favourite Fragment</string>
+    <string name="pro_file_fragment">Profile Fragment</string>
+    <string name="aboutapp_fragment">Aboutapp Fragment</string>
+</resources>
